@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: 
+    url("/Users/jones1/Documents/Web Development/DasmotoArts/resources/images/dasmoto_img4.webp");
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes h3{
+    background-color: mediumspringgreen;
+}
+
+.frames h3{
+    background-color: lightcoral;
+}
+
+.paint h3{
+    background-color: skyblue;
+}
+
+h5 {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+span.blue {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
